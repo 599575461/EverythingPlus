@@ -16,7 +16,7 @@
 
   > GUI页面使用PyQt5 
   >
-  > 搜索功能使用Everything命令行接口 [官网]([voidtools](https://www.voidtools.com/zh-cn/))
+  > 搜索功能使用Everything命令行接口 [官网](https://www.voidtools.com/zh-cn/)
   >
   > UI设计使用Qt自带设计师
   >
