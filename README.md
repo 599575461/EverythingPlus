@@ -36,7 +36,7 @@
 
 > 名字由来:调用了Everything 又添加了编辑功能(像vs一样强大)
 >
-> 图标又来:Everything+Visual Studio 
+> 图标由来:Everything+Visual Studio 
 
 # 功能
 
